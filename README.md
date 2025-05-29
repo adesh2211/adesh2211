@@ -48,7 +48,12 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adesh2211&theme=radical" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=adesh2211&show_icons=true&theme=github_dark" width="48%"  />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adesh2211&theme=github-dark" width="48%"  />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesh2211&layout=compact&theme=github_dark" width="48%" />
 </p>
 
 
