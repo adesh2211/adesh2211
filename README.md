@@ -52,6 +52,13 @@
 </p>
 
 
+### 📌 Featured Projects
+
+- 🛒 **E-commerce Platform** — Laravel + Angular app with product listing, cart, and payments
+- 🗓 **Scheduler App** — Built for staff/patient schedules with real-time notifications
+- 🧾 **Donation System** — Laravel + Authorize.Net with subscription billing and webhook handling
+
+
 ## 🗣 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adesh.backspacce@gmail.com)
