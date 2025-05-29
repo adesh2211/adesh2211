@@ -3,13 +3,13 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e20c8eba-f63f-4121-a90e-147854707ca7">
 
-- 🔭 I’m currently working on **Full Stack Projects using  Php/Laravel, Nodejs, Angular, and Ionic**
+- 💼 Skilled in **Laravel**, **Angular**, **Node.js**, **MySQL**, **MongoDB**
   
-- 🌱 I’m currently learning **Advanced Django, REST APIs, Docker, and System Design**
+- 🧩 Love working with APIs, integrations, and backend logic
   
-- 👯 I’m looking to collaborate on **Open-source full-stack applications**
+- 🛠 Currently learning **DevOps (Docker, CI/CD)** and **Cloud Deployments**
   
-- 💬 Ask me about **Laravel, Mysql, PostgreSQL, Vue, Angular, or anything web**
+- 💬 Ask me about: `PHP`, `Laravel`, `Angular`, `REST APIs`, `PostgreSQL`, `AWS`
   
 - 📫 How to reach me: **adesh@backspacce.com**
   
